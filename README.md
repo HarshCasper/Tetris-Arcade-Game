@@ -1,5 +1,13 @@
 # Tetris-Arcade-Game
 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/reading-6th-grade-level.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/ages-12.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-resentment.svg)](https://forthebadge.com)
+
 🎮🕹️ Tetris Arcade Game is the classical rendition of the 1980s-era Tile-Matching Puzzle Game implemented using Java Programming 
 Language and JavaFX Graphical User Interface (GUI) to give the player a rich and interactive gaming experience ❤️
 
@@ -19,3 +27,7 @@ inevitable loss. [Reference](https://en.wikipedia.org/wiki/Tetris)
 to build applications that run on devices that support Java runtime. 
 
 - JavaFX: JavaFX is a Java library used to develop Desktop applications as well as Rich Internet Applications (RIA). The applications built in JavaFX, can run on multiple platforms including Web, Mobile and Desktops. JavaFX is intended to replace swing in Java applications as a GUI framework.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/HarshCasper/Tetris-Arcade-Game/blob/master/LICENSE) file for details
